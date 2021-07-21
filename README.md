@@ -35,3 +35,23 @@
 
 ![tourism-design-result](https://user-images.githubusercontent.com/48887925/126267761-fa12cd67-37d4-4151-bf24-6125b668b518.png)
 
+---
+
+### 6 Newspaper Design
+
+![newspaper-design-result](https://user-images.githubusercontent.com/48887925/126441991-29041365-9aee-4ac7-92b1-81e4f391dc7f.png)
+
+---
+
+### 7 Legal Design
+
+![legal-design-result](https://user-images.githubusercontent.com/48887925/126442039-576760a0-e2d8-4a2a-8a3a-5cb6095ee760.png)
+
+
+---
+
+### 8 Streaming Design
+
+![streaming-design-result](https://user-images.githubusercontent.com/48887925/126442079-ef00d733-93bd-4cc6-8d0b-f868c14273c8.png)
+
+
