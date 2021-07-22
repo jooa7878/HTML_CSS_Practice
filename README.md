@@ -64,4 +64,4 @@
 
 ### 10 Portfolio Design
 
-![portfolio-design-result](https://user-images.githubusercontent.com/48887925/126602130-cfdeb5a7-4963-446b-b9ae-4e9faf753e33.png)
+![portfolio-design-result](https://user-images.githubusercontent.com/48887925/126602262-bd17d0e5-50ee-493f-9b24-d964a59ea646.png)
