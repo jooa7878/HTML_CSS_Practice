@@ -54,4 +54,14 @@
 
 ![streaming-design-result](https://user-images.githubusercontent.com/48887925/126442079-ef00d733-93bd-4cc6-8d0b-f868c14273c8.png)
 
+---
 
+### 9 Technology Design
+
+![technology-design-result](https://user-images.githubusercontent.com/48887925/126602063-8d54d3c1-626b-4baa-9f42-1fc62edf4735.png)
+
+---
+
+### 10 Portfolio Design
+
+![portfolio-design-result](https://user-images.githubusercontent.com/48887925/126602130-cfdeb5a7-4963-446b-b9ae-4e9faf753e33.png)
